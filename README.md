@@ -1,4 +1,4 @@
-# Girl Scout Event : Python Tutorial
+# Girl Scout Event Python Tutorial
 This repository hosts all the materials I use to conduct a Python Tutorial for OC Girl Scout Members
 
 # Event Goal :
